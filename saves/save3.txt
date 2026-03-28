@@ -1,0 +1,22 @@
+1
+3
+Aragorn
+20
+16
+18
+15
+18
+25
+Warrior
+{"name": "Skórzana Kamizelka", "type": "armor", "pArmor": 1, "mArmor": 1, "weight": 0, "rarity": 0, "worth": 5, "desc": "\u001b[1;37;1m Skórzana Kamizelka\u001b[0m\n  Prosta kamizelka zapewniająca minimalną ochronę.\n   Pancerz fizyczny: +1\n   Pancerz magiczny: +1\n   Obciążenie: 0\n  Wymagania:\n   Brak wymagań", "req": {"con": 0, "str": 0, "dex": 0, "int": 0, "wis": 0}}
+{"name": "Miecz Treningowy", "type": "weapon", "scale": "str", "damage": 3, "weight": 0, "range": 1, "rarity": 0, "worth": 5, "desc": "\u001b[1;37;1m Miecz Treningowy\u001b[0m\n   Obrażenia: +3\n   Zasięg: 1m\n   Skalowanie obrażeń: siła\n   Obciążenie: 0\n  Wymagania:\n   Brak wymagań", "req": {"con": 0, "str": 0, "dex": 0, "int": 0, "wis": 0}}
+null
+null
+null
+7
+0
+25
+1
+[{"name": "Mała mikstura zdrowia", "type": "usable", "heal": 15, "rarity": 15, "worth": 15, "desc": "\u001b[1;37;1m Mała mikstura zdrowia\u001b[0m\n  Przywraca 15 punktów życia."}, {"name": "Mała mikstura zdrowia", "type": "usable", "heal": 15, "rarity": 15, "worth": 15, "desc": "\u001b[1;37;1m Mała mikstura zdrowia\u001b[0m\n  Przywraca 15 punktów życia."}, {"name": "Mała mikstura zdrowia", "type": "usable", "heal": 15, "rarity": 15, "worth": 15, "desc": "\u001b[1;37;1m Mała mikstura zdrowia\u001b[0m\n  Przywraca 15 punktów życia."}]
+["Mała mikstura zdrowia", "Mała mikstura zdrowia", "Mała mikstura zdrowia"]
+0.5
