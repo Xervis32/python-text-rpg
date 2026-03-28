@@ -1,0 +1,8 @@
+W gęstym lesie
+Idziesz wzdłuż ścieżki w gęstym lesie, który niemal całkowicie odcina światło księżyca. W oddali słyszysz cichy szelest, który szybko staje się coraz głośniejszy. Po chwili z krzaków wyłania się ogromny wilk.
+
+	(1) Atakuj.
+
+	(2) Spróbuj oswoić wilka.
+
+	(3) Uciekaj.

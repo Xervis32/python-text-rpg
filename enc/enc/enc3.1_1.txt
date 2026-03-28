@@ -1,0 +1,7 @@
+Schodząc w mrok podziemi, docierasz do wąskiego korytarza zakończonego starożytnymi drzwiami. Na ich powierzchni 
+ widzisz skomplikowany mechanizm — zestaw ruchomych pierścieni pokrytych runami. Wydaje się, że aby otworzyć drzwi,
+ musisz ustawić pierścienie w odpowiedniej konfiguracji.
+
+	(1) Spróbuj rozwiązać zagadkę.
+
+	(2) Zignoruj mechanizm i spróbuj siłowo otworzyć drzwi.

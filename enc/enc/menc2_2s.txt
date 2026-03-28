@@ -1,0 +1,14 @@
+Zakradłeś się bezszelestnie między gobliny, unikając ich czujnych spojrzeń. Gdy nadarza się okazja, powalasz wodza
+ goblinów i ciągniesz go w głąb lasu. Jego pobratymcy, zajęci ucztowaniem, nawet nie zauważają, że zniknął.
+
+Wódz miota się i syczy, ale twój nóż przy jego gardle skutecznie ucisza jego buntowniczy zapał.
+
+— Gdzie zabraliście moją siostrę?! — syczysz.
+
+Goblin uśmiecha się złośliwie.
+
+— Zabij mnie, jeśli chcesz. Nic ci nie powiem.
+
+	(1) Zabij wodza.
+
+	(2) Oszczędźć goblina i spróbuj znaleźć wskazówki w obozie.

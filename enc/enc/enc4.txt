@@ -1,0 +1,7 @@
+Motylek w lesie
+Idąc leśną ścieżką, dostrzegasz niezwykłego motyla o lśniących, migoczących skrzydłach. Krąży wokół ciebie, jakby 
+ chciał przyciągnąć twoją uwagę, po czym zaczyna unosić się w głąb lasu.
+
+	(1) Podążaj za motylem.
+
+	(2) Zignoruj go i ruszaj dalej.

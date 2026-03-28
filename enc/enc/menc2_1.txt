@@ -1,0 +1,13 @@
+Pole bitwy cichnie, a wokół ciebie leżą martwe ciała goblinów. Ocaleni więźniowie patrzą na ciebie z wdzięcznością, 
+ ale nie masz czasu na świętowanie. Wódz goblinów, ciężko ranny, próbuje czołgać się w stronę lasu, ale chwytasz go 
+ i przyciskasz do ziemi.
+
+— Gdzie zabraliście moją siostrę?! — warczysz, ściskając rękojeść broni.
+
+Goblin spluwa krwią i uśmiecha się złośliwie.
+
+— Zabij mnie, jeśli chcesz. Nic ci nie powiem.
+
+	(1) Zabij wodza.
+
+	(2) Oszczędźć goblina i spróbuj znaleźć wskazówki w obozie.

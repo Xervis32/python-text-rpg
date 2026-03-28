@@ -1,0 +1,10 @@
+Wędrowiec na trakcie
+Idąc wiejskim traktem o zmierzchu, dostrzegasz zbliżającą się sylwetkę. To staruszek oparty na kosturze, który wygląda,
+ jakby niósł ze sobą coś ciężkiego. Zatrzymuje się przed tobą i mówi: „Wędrowcze, pomóż mi donieść to zawiniątko do 
+ wioski. W zamian odwdzięczę się wiedzą, której próżno szukać w księgach.”
+
+	(1) Pomóż starcowi.
+
+	(2) Zignoruj go i ruszaj dalej.
+
+	(3) Spróbuj przejąć zawiniątko siłą.

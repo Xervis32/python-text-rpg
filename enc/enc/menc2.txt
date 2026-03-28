@@ -1,0 +1,18 @@
+Legowisko Goblinów
+Po kilku dniach tropienia śladów goblinów docierasz do mrocznego lasu, gdzie wśród splątanych konarów dostrzegasz
+ światła ognisk. Ukryty za gęstymi krzakami obserwujesz, jak małe, pokraczne istoty świętują swoje zwycięstwo – śmieją
+ się, piją i kłócą się między sobą o zrabowane łupy.
+
+Pośrodku obozowiska stoi drewniana klatka, a w niej – grupa uwięzionych ludzi. Twojej siostry jednak nie widzisz.
+
+Jeden z goblinów, większy od reszty, wstaje i uderza toporem w ziemię, uciszając pobratymców.
+
+— Dzisiejsza zdobycz trafiła do pana! — warczy. — Pan obiecał nam złoto, więc dostanie to, co najlepsze!
+
+Twoje serce przyspiesza. Kim jest ich pan? Gdzie zabrali twoją siostrę?
+
+Nie możesz czekać. Musisz działać.
+
+	(1) Zaatakuj obóz.
+
+	(2) Spróbuj się zakraść.

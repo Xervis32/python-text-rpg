@@ -1,0 +1,10 @@
+Spotkanie w opuszczonej chacie
+Wchodzisz do starej, opuszczonej chaty na skraju lasu. W środku unosi się zapach wilgoci i pleśni. Na stole leży księga
+z dziwnymi, świecącymi runami, a obok niej miecz o zardzewiałym ostrzu. Nagle zza ścian dochodzi skrzypienie desek i
+czujesz, jak podłoga pod twoimi stopami zaczyna drżeć.
+
+	(1) Podnieś miecz.
+
+	(2) Spróbuj odczytać runy z księgi.
+
+	(3) Uciekaj.

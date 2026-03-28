@@ -1,0 +1,11 @@
+Twierdza Spopielonych Szczytów
+Po długiej wędrówce wreszcie dostrzegasz ruiny Twierdzy Spopielonych Szczytów. Jej wieże wznoszą się ku niebu, a czarne,
+ zwęglone kamienie sugerują, że dawno temu pochłonął ją ogień. Wokół niej kręcą się gobliny i uzbrojeni bandyci – to nie
+ jest zwykłe miejsce.
+
+Ukrywasz się za pobliskim głazem, zastanawiając się nad następnym krokiem. Jeśli twoja siostra tu jest, musisz się
+ dowiedzieć, gdzie ją trzymają.
+
+	(1) Spróbuj się zakraść i podsłuchać strażników.
+
+	(2) Zaatakuj strażników.

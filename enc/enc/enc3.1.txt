@@ -1,0 +1,10 @@
+Ruiny na wzgórzu
+Dzięki wskazówkom starca odnajdujesz stare, zarośnięte wzgórze, na którym czas i natura zatarły ślady dawnej budowli.
+ Kamienne łuki, rozbite kolumny i porośnięte mchem mury świadczą o dawnej świetności tego miejsca. Pośród ruin
+ dostrzegasz zejście do podziemi, które wydaje się prowadzić głębiej w mrok.
+
+	(1) Wejdź do podziemi.
+
+	(2) Rozejrzyj się po powierzchni.
+
+	(3) Zrezygnuj — to miejsce wygląda zbyt niebezpiecznie.
